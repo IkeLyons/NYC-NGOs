@@ -1,7 +1,9 @@
-The aim of the scripts in the repo are to scrape NGOs/Nonprofits from the following websites:
-https://www.nonprofitnewyork.org/join/directory/
-https://queensbp.org/nonprofits/
-https://www.nycservice.org/organizations/
+The aim of this repo is to scrape NGOs/Nonprofits from the following websites:\
+[Nonprofit New York](https://www.nonprofitnewyork.org/join/directory/)\
+[Queens' Borough President](https://queensbp.org/nonprofits/)\
+[NYC Service](https://www.nycservice.org/organizations/)\
+With more to be added eventually.
+
 
 
 # To get the final csv file:
